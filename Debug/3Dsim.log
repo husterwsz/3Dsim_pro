@@ -1,0 +1,39 @@
+﻿生成启动时间为 2018/12/24 15:47:06。
+     1>项目“F:\40+Wang\3Dsim-wear aware\3Dsim-master\superblock - lite-mapping table -DFTL\3Dsim\3Dsim_1 - copy\3Dsim.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt /D _CRT_SECURE_NO_WARNINGS initialize.c
+         initialize.c
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(110): warning C4013: “alloc_assert”未定义；假设外部返回 int
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(200): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(348): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(362): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(364): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(389): warning C4133: “=”: 从“superblock *”到“local *”的类型不兼容
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(393): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(395): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(397): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(399): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(425): warning C4133: “=”: 从“superblock *”到“local *”的类型不兼容
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(428): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(430): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(432): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(459): warning C4133: “=”: 从“superblock *”到“local *”的类型不兼容
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(462): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(464): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(490): warning C4133: “=”: 从“superblock *”到“local *”的类型不兼容
+     1>f:\40+wang\3dsim-wear aware\3dsim-master\superblock - lite-mapping table -dftl\3dsim\3dsim_1 - copy\initialize.c(493): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\40+Wang\3Dsim-wear aware\3Dsim-master\superblock - lite-mapping table -DFTL\3Dsim\3Dsim_1 - copy\Debug\3Dsim.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\40+Wang\3Dsim-wear aware\3Dsim-master\superblock - lite-mapping table -DFTL\3Dsim\3Dsim_1 - copy\Debug\3Dsim.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\40+Wang\3Dsim-wear aware\3Dsim-master\superblock - lite-mapping table -DFTL\3Dsim\3Dsim_1 - copy\Debug\3Dsim.lib" /MACHINE:X86 Debug\avlTree.obj
+         Debug\buffer.obj
+         Debug\fcl.obj
+         Debug\flash.obj
+         Debug\ftl.obj
+         Debug\initialize.obj
+         Debug\interface.obj
+         Debug\ssd.obj
+         3Dsim.vcxproj -> F:\40+Wang\3Dsim-wear aware\3Dsim-master\superblock - lite-mapping table -DFTL\3Dsim\3Dsim_1 - copy\Debug\3Dsim.exe
+     1>已完成生成项目“F:\40+Wang\3Dsim-wear aware\3Dsim-master\superblock - lite-mapping table -DFTL\3Dsim\3Dsim_1 - copy\3Dsim.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.55
